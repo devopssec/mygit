@@ -6,8 +6,8 @@
 如果你要有一些资源，希望和我一起，把这个搞起来，很简单，`Fork-修改- Pull Request` 就 ok。
 
 # 新手入门
-- [为什么开始使用 Git 版本管理，Git VS Svn 有哪些区别？](https://github.com/xirong/my-git/blob/master/why-git.md)
-- [开篇：一篇适合入门学习git的资料汇总](https://github.com/xirong/my-git/blob/master/ixirong.com.md) 本人的拙笔，欢迎吐槽！
+- [为什么开始使用 Git 版本管理，Git VS Svn 有哪些区别？](https://github.com/devopssec/mygit/blob/master/why-git.md)
+- [开篇：一篇适合入门学习git的资料汇总](https://github.com/devopssec/mygit/blob/master/ixirong.com.md) 本人的拙笔，欢迎吐槽！
 - [Github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) 关于使用 Git 和 Github 的一些技巧汇总，中文版在此[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [Git for beginners: The definitive practical guide - from stackoverflow.com](http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide?rq=1)  It's so useful to a beginner ,just open the url , read and practice .
 - [Visual Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html) 通过 Git 的几个工作区 Stash、Workspace、Index、Local Repository、Upstream Repository 来汇总日常使用的 Git 命令，备忘推荐。
@@ -25,7 +25,7 @@ Mac 和 Linux 系统推荐使用终端即可，Git 一开始的命令的确很�
 
 # Git branch
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) 介绍日常推荐的分支开发模型，基于此模型可以通过这个小游戏来进行学习 [Learn Git Branch](http://pcottle.github.io/learnGitBranching/)
-- [Git工作流指南](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)完整的对比目前使用的集中式（Svn）工作流、功能分支工作流、Gitflow 工作流、Forking 工作流、Pull Request 等几种不同的模式，通俗易懂，强烈推荐看一看，如果觉的排版不好，请查看原分页文章 [Git-workflow-translations](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
+- [Git工作流指南](https://github.com/devopssec/mygit/blob/master/git-workflow-tutorial.md)完整的对比目前使用的集中式（Svn）工作流、功能分支工作流、Gitflow 工作流、Forking 工作流、Pull Request 等几种不同的模式，通俗易懂，强烈推荐看一看，如果觉的排版不好，请查看原分页文章 [Git-workflow-translations](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
 - 熟悉的工作流后，你是否也想要在 Github 上与他人一起协同工作？那么问题来了，[Github全程指南-如何高效使用？](how-to-use-github.md)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html) This guide explains how and why GitHub Flow works 简单实用，更好的理解Github的模式。
 - [Github 协同开发流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html) 图片很赞，简洁易懂。
